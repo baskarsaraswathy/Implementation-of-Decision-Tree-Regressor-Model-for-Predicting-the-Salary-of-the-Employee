@@ -5,12 +5,12 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 ## Algorithm
-1.Prepare your data -Collect and clean data on employee salaries and features -Split data into training and testing sets
-2.Define your model -Use a Decision Tree Regressor to recursively partition data based on input features -Determine maximum depth of tree and other hyperparameters
-3.Train your model -Fit model to training data -Calculate mean salary value for each subset
-4.Evaluate your model -Use model to make predictions on testing data -Calculate metrics such as MAE and MSE to evaluate performance
-5.Tune hyperparameters -Experiment with different hyperparameters to improve performance
-6.Deploy your model Use model to make predictions on new data in real-world application.
+1. Prepare your data -Collect and clean data on employee salaries and features -Split data into training and testing sets
+2. Define your model -Use a Decision Tree Regressor to recursively partition data based on input features -Determine maximum depth of tree and other hyperparameters
+3. Train your model -Fit model to training data -Calculate mean salary value for each subset
+4. Evaluate your model -Use model to make predictions on testing data -Calculate metrics such as MAE and MSE to evaluate performance
+5. Tune hyperparameters -Experiment with different hyperparameters to improve performance
+6. Deploy your model Use model to make predictions on new data in real-world application.
 ## Program:
 ```
 /*
